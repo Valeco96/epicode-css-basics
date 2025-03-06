@@ -84,8 +84,10 @@ li {
 
 footer {
   background-color: rgb(6, 6, 87);
+  padding: 16px;
+  text-align: center;
 }
 
-footer p {
+footer a {
   color: white;
 }
