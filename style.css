@@ -33,6 +33,14 @@ a {
   text-decoration: none;
 }
 
+.anna {
+  color: rgb(154, 91, 8);
+}
+
+.verde {
+  color: darkgreen;
+}
+
 a:visited {
   color: rgb(39, 122, 190);
 }
@@ -47,6 +55,21 @@ h6 {
   background-image: linear-gradient(rgb(39, 122, 190), rgb(11, 11, 67));
 }
 
+.green {
+  padding: 22px;
+  margin-bottom: 0;
+  margin-top: 56px;
+  color: white;
+  border-radius: 6px;
+  background-color: darkgreen;
+  background-image: linear-gradient(rgb(17, 83, 6), rgb(11, 11, 67));
+}
+
+.yellow {
+  background-color: orange;
+  background-image: linear-gradient(rgb(206, 154, 89), rgb(164, 95, 10));
+}
+
 ul {
   list-style: none;
   padding: 0;
@@ -57,4 +80,12 @@ li {
   padding-bottom: 6px;
   padding-left: 22px;
   border-bottom: 1px solid #dfdfdf;
+}
+
+footer {
+  background-color: rgb(6, 6, 87);
+}
+
+footer p {
+  color: white;
 }
